@@ -6,92 +6,75 @@
 
 **聚合国内各类免费 API 服务 - 开发者必备资源**
 
-*最后更新 (Last Updated): 2026-03-09 14:22:32*
+*最后更新 (Last Updated): 2026-03-09 16:04:07*
 
 [![GitHub stars](https://img.shields.io/github/stars/yy1142274323/chinese-public-apis?style=social)](https://github.com/yy1142274323/chinese-public-apis/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yy1142274323/chinese-public-apis?style=social)](https://github.com/yy1142274323/chinese-public-apis/network/members)
 
 </div>
 
 ---
 
-## 📋 目录 | Table of Contents
+## 📋 目录
 
 - [🔰 常用 API](#常用-api)
-- [💬 短信服务](#短信服务)
-- [📧 邮件服务](#邮件服务)
-- [🗺️ 地图服务](#地图服务)
-- [☁️ 云存储](#云存储)
 - [🤖 AI 服务](#ai-服务)
-- [💳 支付相关](#支付相关)
-- [📱 其他 API](#其他-api)
+- [☁️ 云存储](#云存储)
+- [🗺️ 地图服务](#地图服务)
+- [💬 短信服务](#短信服务)
 - [🆕 最新发现](#最新发现)
 
 ---
 
 ## 🔰 常用 API
 
-| API 名称 | 描述 | 免费额度 | 网站 |
-|----------|------|---------|------|
-| [12306 API](https://www.12306.cn/) | 火车票查询 | 有限 | 12306 |
-| [快递鸟](https://www.kdniao.com/) | 快递查询 | 有免费额度 | 快递鸟 |
-| [阿里云](https://www.aliyun.com/) | 各类云服务 | 新用户免费 | 阿里云 |
-| [腾讯云](https://cloud.tencent.com/) | 各类云服务 | 新用户免费 | 腾讯云 |
-| [华为云](https://www.huaweicloud.com/) | 各类云服务 | 新用户免费 | 华为云 |
-
----
-
-## 💬 短信服务
-
-| API 名称 | 描述 | 免费额度 |
-|----------|------|---------|
-| 阿里云短信 | 国内短信 | 新用户免费 100 条 |
-| 腾讯云短信 | 国内短信 | 新用户免费 100 条 |
-| 华为云短信 | 国内短信 | 新用户免费 100 条 |
-
----
-
-## 🗺️ 地图服务
-
-| API 名称 | 描述 | 免费额度 |
-|----------|------|高德地图](---------|
-| [https://lbs.amap.com/) | 地图、定位 | 有限免费 |
-| [百度地图](https://map.baidu.com/) | 地图、定位 | 有限免费 |
-| [腾讯地图](https://lbs.qq.com/) | 地图、定位 | 有限免费 |
-
----
-
-## ☁️ 云存储
-
-| API 名称 | 描述 | 免费额度 |
-|----------|------|---------|
-| 阿里云 OSS | 对象存储 | 新用户免费 |
-| 腾讯云 COS | 对象存储 | 新用户免费 |
-| 又拍云 | CDN/存储 | 有免费额度 |
-| 七牛云 | CDN/存储 | 有免费额度 |
+| API 名称 | 描述 | 链接 |
+|----------|------|------|
+| 12306 API | 火车票查询 | https://www.12306.cn/ |
+| 快递鸟 | 快递查询 | https://www.kdniao.com/ |
+| 阿里云 | 各类云服务 | https://www.aliyun.com/ |
+| 腾讯云 | 各类云服务 | https://cloud.tencent.com/ |
+| 华为云 | 各类云服务 | https://www.huaweicloud.com/ |
 
 ---
 
 ## 🤖 AI 服务
 
-| API 名称 | 描述 | 免费额度 |
-|----------|------|---------|
-| [讯飞开放平台](https://www.xfyun.cn/) | 语音转写、合成 | 有免费额度 |
-| [百度AI开放平台](https://ai.baidu.com/) | 各类AI能力 | 有免费额度 |
-| [阿里云AI](https://ai.aliyun.com/) | 各类AI能力 | 新用户免费 |
-| [腾讯AI开放平台](https://ai.qq.com/) | 各类AI能力 | 有免费额度 |
-| [Moonshot AI](https://www.moonshot.cn/) | 大模型API | 有免费额度 |
+| API 名称 | 描述 | 链接 |
+|----------|------|------|
+| 讯飞开放平台 | 语音转写、合成 | https://www.xfyun.cn/ |
+| 百度AI开放平台 | 各类AI能力 | https://ai.baidu.com/ |
+| 阿里云AI | 各类AI能力 | https://ai.aliyun.com/ |
+| Moonshot AI | 大模型API | https://www.moonshot.cn/ |
 
 ---
 
-## 📱 其他 API
+## ☁️ 云存储
 
 | API 名称 | 描述 | 链接 |
 |----------|------|------|
-| 聚合数据 | 各类数据API | https://www.juhe.cn/ |
-| 极速数据 | 各类数据API | https://www.jisuapi.com/ |
-| 天行数据 | 各类数据API | https://www.tianapi.com/ |
-| 阿凡达数据 | 各类数据API | https://www.avatardata.cn/ |
+| 阿里云 OSS | 对象存储 | https://www.aliyun.com/product/oss |
+| 腾讯云 COS | 对象存储 | https://cloud.tencent.com/product/cos |
+| 七牛云 | CDN/存储 | https://www.qiniu.com/ |
+| 又拍云 | CDN/存储 | https://www.upyun.com/ |
+
+---
+
+## 🗺️ 地图服务
+
+| API 名称 | 描述 | 链接 |
+|----------|------|------|
+| 高德地图 | 地图、定位 | https://lbs.amap.com/ |
+| 百度地图 | 地图、定位 | https://lbsyun.baidu.com/ |
+| 腾讯地图 | 地图、定位 | https://lbs.qq.com/ |
+
+---
+
+## 💬 短信服务
+
+| API 名称 | 描述 | 链接 |
+|----------|------|------|
+| 阿里云短信 | 国内短信 | https://dysms.console.aliyun.com/ |
+| 腾讯云短信 | 国内短信 | https://console.cloud.tencent.com/smsv2 |
 
 ---
 
@@ -99,30 +82,24 @@
 
 | 项目 | ⭐ Stars | 描述 |
 |------|---------|------|
-| [2noise/ChatTTS](https://github.com/2noise/ChatTTS) | 38,889 | 开源语音合成项目 |
-| [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 32,133 | PDF数学公式翻译 |
-| [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) | 19,915 | 开源语音生成 |
-| [Tencent-Hunyuan/HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT) | 4,295 | 腾讯混元AI绘画 |
+| [UnicomAI/wanwu](https://github.com/UnicomAI/wanwu) | 3840 | China Unicom's Yuanjing Wanwu Agent Platform is an |
+| [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) | 3481 | Enable Apple Intelligence on Macs sold in Mainland |
+| [BytePioneer-AI/openclaw-china](https://github.com/BytePioneer-AI/openclaw-china) | 2572 | OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信，微信 |
+| [FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR) | 1790 | Open-source industrial-grade ASR models supporting |
+| [shanleiguang/vRain](https://github.com/shanleiguang/vRain) | 1547 | 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator |
+| [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) | 1275 | 🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40 个真实场景（国内特色 + 海外的国内 |
+| [liyedanpdx/reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends) | 806 | Stay ahead of AI trends with automated Reddit insi |
+| [SamNet-dev/paqctl](https://github.com/SamNet-dev/paqctl) | 777 | Unified proxy manager for bypassing firewalls - su |
 
 ---
 
-## 🤝 贡献指南 | Contributing
+## 💰 赞助支持
 
-欢迎提交 PR 完善这个列表！
-
-1. Fork 本仓库
-2. 添加新的 API 信息
-3. 提交 Pull Request
-
----
-
-## 💰 赞助支持 | Sponsor
-
-如果你觉得这个项目对你有帮助，欢迎请我喝杯咖啡 ☕
+欢迎请我喝杯咖啡 ☕
 
 ![支付宝赞助](https://raw.githubusercontent.com/yy1142274323/chinese-public-apis/main/alipay_qr.png)
 
 ---
 
-*🤖 由 Jarvis 自动更新 | Automatically updated by Jarvis*
+*🤖 由 Jarvis 自动更新*
 
