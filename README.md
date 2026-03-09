@@ -6,7 +6,7 @@
 
 **聚合国内各类免费 API 服务 - 开发者必备资源**
 
-*最后更新 (Last Updated): 2026-03-09 13:37:59*
+*最后更新 (Last Updated): 2026-03-09 14:22:32*
 
 [![GitHub stars](https://img.shields.io/github/stars/yy1142274323/chinese-public-apis?style=social)](https://github.com/yy1142274323/chinese-public-apis/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yy1142274323/chinese-public-apis?style=social)](https://github.com/yy1142274323/chinese-public-apis/network/members)
@@ -25,6 +25,7 @@
 - [🤖 AI 服务](#ai-服务)
 - [💳 支付相关](#支付相关)
 - [📱 其他 API](#其他-api)
+- [🆕 最新发现](#最新发现)
 
 ---
 
@@ -36,6 +37,7 @@
 | [快递鸟](https://www.kdniao.com/) | 快递查询 | 有免费额度 | 快递鸟 |
 | [阿里云](https://www.aliyun.com/) | 各类云服务 | 新用户免费 | 阿里云 |
 | [腾讯云](https://cloud.tencent.com/) | 各类云服务 | 新用户免费 | 腾讯云 |
+| [华为云](https://www.huaweicloud.com/) | 各类云服务 | 新用户免费 | 华为云 |
 
 ---
 
@@ -45,16 +47,17 @@
 |----------|------|---------|
 | 阿里云短信 | 国内短信 | 新用户免费 100 条 |
 | 腾讯云短信 | 国内短信 | 新用户免费 100 条 |
+| 华为云短信 | 国内短信 | 新用户免费 100 条 |
 
 ---
 
 ## 🗺️ 地图服务
 
 | API 名称 | 描述 | 免费额度 |
-|----------|------|---------|
-| 高德地图 | 地图、定位 | 有限免费 |
-| 百度地图 | 地图、定位 | 有限免费 |
-| 腾讯地图 | 地图、定位 | 有限免费 |
+|----------|------|高德地图](---------|
+| [https://lbs.amap.com/) | 地图、定位 | 有限免费 |
+| [百度地图](https://map.baidu.com/) | 地图、定位 | 有限免费 |
+| [腾讯地图](https://lbs.qq.com/) | 地图、定位 | 有限免费 |
 
 ---
 
@@ -65,6 +68,7 @@
 | 阿里云 OSS | 对象存储 | 新用户免费 |
 | 腾讯云 COS | 对象存储 | 新用户免费 |
 | 又拍云 | CDN/存储 | 有免费额度 |
+| 七牛云 | CDN/存储 | 有免费额度 |
 
 ---
 
@@ -72,9 +76,11 @@
 
 | API 名称 | 描述 | 免费额度 |
 |----------|------|---------|
-| 讯飞开放平台 | 语音转写 | 有免费额度 |
-| 百度AI开放平台 | 各类AI能力 | 有免费额度 |
-| 阿里云AI | 各类AI能力 | 新用户免费 |
+| [讯飞开放平台](https://www.xfyun.cn/) | 语音转写、合成 | 有免费额度 |
+| [百度AI开放平台](https://ai.baidu.com/) | 各类AI能力 | 有免费额度 |
+| [阿里云AI](https://ai.aliyun.com/) | 各类AI能力 | 新用户免费 |
+| [腾讯AI开放平台](https://ai.qq.com/) | 各类AI能力 | 有免费额度 |
+| [Moonshot AI](https://www.moonshot.cn/) | 大模型API | 有免费额度 |
 
 ---
 
@@ -85,6 +91,18 @@
 | 聚合数据 | 各类数据API | https://www.juhe.cn/ |
 | 极速数据 | 各类数据API | https://www.jisuapi.com/ |
 | 天行数据 | 各类数据API | https://www.tianapi.com/ |
+| 阿凡达数据 | 各类数据API | https://www.avatardata.cn/ |
+
+---
+
+## 🆕 最新发现 | New This Week
+
+| 项目 | ⭐ Stars | 描述 |
+|------|---------|------|
+| [2noise/ChatTTS](https://github.com/2noise/ChatTTS) | 38,889 | 开源语音合成项目 |
+| [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 32,133 | PDF数学公式翻译 |
+| [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) | 19,915 | 开源语音生成 |
+| [Tencent-Hunyuan/HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT) | 4,295 | 腾讯混元AI绘画 |
 
 ---
 
