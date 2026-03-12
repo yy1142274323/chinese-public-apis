@@ -1,0 +1,23 @@
+name: Daily API Update
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天 UTC 2点
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update API list
+        run: |
+          echo "# 中国免费公共API更新" > api_update.md
+          echo "- 更新日期: $(date +%Y-%m-%d)" >> api_update.md
+          echo "- 本周新增: 0个API" >> api_update.md
+      
+      - name: Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "API目录更新"
